@@ -5,7 +5,7 @@ Planification d'un évènement de team building pour une équipe
 https://www.canva.com/design/DAFjB2KBE94/5IBXiWJiIMZzOL1VxoqtRQ/view
 
 ## Le projet
-Nous avons été missionnés de réaliser la planification d'un évènement de team building afin de ressouder une équipe.
+Nous avons été missionnés pour réaliser la planification d'un évènement de team building afin de ressouder une équipe.
 
 Nous devions choisir un évènement original et impactant et organiser le déroulement de celui-ci, du début jusqu'à la fin.
 
